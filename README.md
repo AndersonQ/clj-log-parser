@@ -10,13 +10,13 @@ A Clojure app to parse a log file. Why? Just to play arounnd wit clojure :)
 ## Usage
 
 ```
-lein run LOG_FILE
+$ lein run LOG_FILE
 ```
 
 ## Testing
 
 ```
-lein test
+$ lein test
 ```
 
 ## License
