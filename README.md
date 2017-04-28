@@ -1,6 +1,6 @@
 # a log parser in clojure
 
-A Clojure app to parse an log file. Why? Just to play arounnd wit clojure :)
+A Clojure app to parse a log file. Why? Just to play arounnd wit clojure :)
 
 ## Requirements
 
