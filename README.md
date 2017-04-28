@@ -8,15 +8,16 @@ A Clojure app to parse a log file. Why? Just to play arounnd wit clojure :)
 2) [Leiningen](https://leiningen.org/)
 
 ## Usage
-´´´
+
+```
 lein run LOG_FILE
-´´´
+```
 
 ## Testing
 
-´´´
+```
 lein test
-´´´
+```
 
 ## License
 
